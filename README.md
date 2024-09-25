@@ -52,13 +52,15 @@ If you would like to read the rules of the game, please click [here](https://en.
 ## 📁 Project Structure
 
 ```bash
-ShipsGame/       # Contains all game directiories and files, including main.cpp and makefile
+Makao/       # Contains all game files
 │
-├── languages/   # Contains language files 
+├── images/      # Contains some image files 
+|     |
+|     |_____  cards/    # Contains cards images
 │
-├── saved/       # Stores saved game stat files
+├── opisy/       # Stores cards data in text file
 │
-└── Ships/       # Contains all classes and most of data files
+└── tests/       # Contains tests for all classes
 │
 └── screenshots/ # screenshots
 ```
