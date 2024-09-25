@@ -26,22 +26,12 @@ The game requires Python 3.11.4 or newer.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/MaciejCieslik1/ShipsGame.git
-    ```
-
-2. Navigate to the project **ShipsGame** directory:
-    ```sh
-    cd ShipsGame/
-    ```
-
-3. Compile the project:
-    ```sh
-    make
+    git clone https://github.com/MaciejCieslik1/Makao.git
     ```
 
 4. Run the game:
     ```sh
-    ./program
+    python3 -u "main.py"
     ```
 
 ## 🎯 Game Preparation
