@@ -45,7 +45,9 @@ Player can choose the number of computer opponents (1, 2 or 3) and a difficulty 
 
 ## ℹ️ Game Rules
 
-If you would like to read the rules of the game, please click [here](https://pl.wikipedia.org/wiki/Makao) to access the game rules.
+If you would like to read the rules of the game, please click [here](https://en.wikipedia.org/wiki/Macau_(card_game)) to access the game rules.
+
+**Note**: The game is created in it's classical varation, but the jokers are not valid in the game.
 
 ## 📁 Project Structure
 
