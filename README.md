@@ -11,7 +11,15 @@ This game was created for "Fundamentals of Programming and Computer Science" cou
 
 ## ✅ Requirements
 
-The game requires C++ 20 or newer.
+1. **Software requirements**:
+The game requires Python 3.11.4 or newer.
+
+2. **Libraries used**:
+- pygame
+- time
+- csv
+- random
+- enum
 
 ## 💾 Installation
 
