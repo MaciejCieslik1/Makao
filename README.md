@@ -28,8 +28,13 @@ The game requires Python 3.11.4 or newer.
     ```sh
     git clone https://github.com/MaciejCieslik1/Makao.git
     ```
+    
+2. Navigate to the project **Makao** directory:
+    ```sh
+    cd Makao/
+    ```
 
-4. Run the game:
+3. Run the game:
     ```sh
     python3 -u "main.py"
     ```
