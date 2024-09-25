@@ -41,7 +41,7 @@ The game requires Python 3.11.4 or newer.
 
 ## 🎯 Game Preparation
 
-Player can choose the number of computer opponents (1, 2 or 3) and a difficulty level (easy or hard)
+Player can choose the number of computer opponents (1, 2 or 3) and a difficulty level (easy or hard).
 
 ## ℹ️ Game Rules
 
