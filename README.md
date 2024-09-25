@@ -15,11 +15,12 @@ This game was created for "Fundamentals of Programming and Computer Science" cou
 The game requires Python 3.11.4 or newer.
 
 2. **Libraries used**:
-- pygame
-- time
-- csv
-- random
-- enum
+- pygame 
+- time (built-in)
+- csv (built-in)
+- random (built-in)
+- abc (built-in)
+- enum (built-in)
 
 ## 💾 Installation
 
