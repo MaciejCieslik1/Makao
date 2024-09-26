@@ -7,7 +7,7 @@
 
 ## 📝 Note
 
-This game was created for "Fundamentals of Programming and Computer Science" course during my first year of studies at Warsaw University of Technology.
+This game was created for "Fundamentals of Programming and Computer Science" course during my first year of studies at Warsaw University of Technology. The project was transferred from my academic account on GitLab.
 
 ## ✅ Requirements
 
